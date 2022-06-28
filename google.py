@@ -3,7 +3,7 @@ from google_images_download import google_images_download  # importing the libra
 response = google_images_download.googleimagesdownload()  # class instantiation
 
 arguments = {
-    "keywords": "이재용",
+    "keywords": "김지원",
     "limit": 20,
     "print_urls": True,
 }  # creating list of arguments
